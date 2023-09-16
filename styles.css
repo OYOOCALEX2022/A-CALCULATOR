@@ -22,5 +22,9 @@ background-color: #D9831A;
    grid-column: span 4; 
    text-align:right;
    padding:10px;
-   background-color: aqua;
+   background-color: #ddd;
+   border: 1px solid #ccc;
+   border-radius: 5px;
+   font-size:30px;
 }
+
