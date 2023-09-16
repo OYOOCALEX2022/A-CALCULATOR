@@ -12,7 +12,15 @@ grid-template-columns: repeat(4, 1fr);
 grid-gap:10px;
 max-width:300px;
 padding:20px;
-border:1px solid #ccc;
+border:1px solid #212736;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba (0 ,0, 0.2);
+background-color: #D9831A;
+}
 
-
+.display {
+   grid-column: span 4; 
+   text-align:right;
+   padding:10px;
+   background-color: aqua;
 }
