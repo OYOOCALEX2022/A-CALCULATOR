@@ -8,3 +8,10 @@ function appendToDisplay(value) {
     currentInput +=value;
     display.innerText = currentInput;
 }
+
+function clearDisplay() {
+currentInput = '';
+currentOperator = '';
+preValue = 0;
+display.innerText = '0';
+}
