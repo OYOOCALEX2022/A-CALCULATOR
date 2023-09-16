@@ -1,2 +1,2 @@
 # A-CALCULATOR
-This is a modern calculator. Solves Mathematical operations like division, addition, subtraction and addition.
+This is a modern calculator. Solves Mathematical operations like division, multiplicatin, subtraction and addition.
